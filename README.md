@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Froshboss
-- 👀 I’m interested in learning web designing and programming
-- 🌱 I’m currently learning Html & css, javascript
-- 💞️ I’m looking to collaborate on future projects
+- 👀 I’m interested in learning web designing and other programming languages
+- 🌱 I’m currently learning Html, css and javascript
+- 💞️ I’m looking forward to collaborate on future projects
 - 📫 How to reach me twitter and instagram using this handle(iamfrosh_boss)
 
 <!---
