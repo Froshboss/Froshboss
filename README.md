@@ -9,12 +9,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Building+cool+things+;Exploring+Web3+and+DeFi;Frontend+Developer+%7C+Designer" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on: **Perfecting my skil**
+- 🔭 I’m currently working on: **Perfecting my skills**
 - 🌱 Currently learning: **Framer, JavaScript, and TypeScript**
 - 👯 I’m looking to collaborate on: **Frontend projects**
 - 💬 Ask me about: **Frontend, design, and crypto wallets**
 - 🛠 I use **Phantom** and **Solflare** and **Jupiter** wallets daily
-- 📫 How to reach me: **farouqalhassan5@email.com**
+- 📫 How to reach me: **farouqalhassan5@gmail.com**
 - 🧠 Passionate about **Web3, DeFi, and DAOs**
 - 🎯 Goals: Build projects, win bounties, network, and get a job!
 
