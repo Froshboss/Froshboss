@@ -28,7 +28,7 @@
   
 ### 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Froshboss&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Froshboss&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Froshboss&theme=radical" alt="streak" />
 </p>
@@ -36,6 +36,12 @@
 ### 🧑‍💻 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froshboss&layout=compact&theme=dark&langs_count=6" />
+</p>
+
+### 🛠️ What I'm Working On
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Froshboss&repo=YOUR_PRIMARY_REPO_NAME&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Froshboss&repo=YOUR_SECONDARY_REPO_NAME&theme=dark" />
 </p>
 
 ### 🔗 Connect With Me
