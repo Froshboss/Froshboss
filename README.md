@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on: **Perfecting my skills**
-- 🌱 Currently learning: **Framer, JavaScript, and TypeScript**
+- 🌱 Currently learning: **Framer, JavaScript, TypeScript, and Solidity**
 - 👯 I’m looking to collaborate on: **Frontend projects**
 - 💬 Ask me about: **Frontend, design, and crypto wallets**
 - 🛠 I use **Phantom** and **Solflare** and **Jupiter** wallets daily
@@ -27,16 +27,22 @@
   <img src="https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=white" />
   
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Froshboss&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Froshboss&theme=radical" alt="streak" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Froshboss&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+  />
 </p>
 
 ### 🧑‍💻 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froshboss&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froshboss&layout=compact&theme=radical&hide_border=true"
+  />
 </p>
+
+
 
 ### 🔗 Connect With Me
 <p align="center">
