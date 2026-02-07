@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Building+cool+things+;Exploring+Web3+and+DeFi;Frontend+Developer+%7C+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Building+cool+things+;Exploring+Web3+and+DeFi;Frontend+Developer+" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on: **Perfecting my skills**
