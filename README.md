@@ -60,7 +60,7 @@ I'm an upcoming developer focused on building the future of the decentralized we
 </p>
 
 
-###🌐 Ecosystem Focus & Proof of Work
+### 🌐 Ecosystem Focus & Proof of Work
 <p align="left">
     <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=9945FF" />
     <img src="https://img.shields.io/badge/Jupiter-222222?style=for-the-badge&logo=jupiter&logoColor=62D2AF" />
